@@ -1,0 +1,8 @@
+prefix=/home/zsir/ros_voice_system/install
+
+Name: snowboy_wakeup
+Description: Description of snowboy_wakeup
+Version: 0.0.0
+Cflags: -I/home/zsir/ros_voice_system/install/include
+Libs: -L/home/zsir/ros_voice_system/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/zsir/ros_voice_system/devel
+
+Name: save_response
+Description: Description of save_response
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/zsir/ros_voice_system/devel/lib 
+Requires: 
